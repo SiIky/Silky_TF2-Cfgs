@@ -12,8 +12,8 @@ Some of the options in settings.cfg are also in autoexec.cfg (i'm too lazy to de
 My launch options: (Steam Library>Teams Fortress 2>Preperties>Set launch options)
 -novid -high -console -Thread 4 -full -w 1366 -h 768
 
-* "-Thread x" (being x the number of physical cores of your CPU)
+* "-Thread x" (being _x_ the number of physical cores of your CPU)
 * "-full" (fullscreen mode)
-* Change the values "-w x" and "-h y" to fit your screen resolution, x being width and y being height
+* Change the values "-w x" and "-h y" to fit your screen resolution, _x_ being width and _y_ being height
 
 Mouse settings, like "sensitivity" and "m_rawinput" and others, are both in the "settings.cfg" and "autoexec.cfg" files, because im lazy, so if youre gonna change them, make sure to change both files!
